@@ -1,2 +1,2 @@
 # hello-world
-Just hello
+Just hello to the world ;)
